@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/WIN7X64/AndroidStudioProjects/19500551_TranHoPhiLong_AD_ToDoApp/app/src/main/res/drawable/cycle_add.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/WIN7X64/AndroidStudioProjects/19500551_TranHoPhiLong_AD_ToDoApp/app/src/main/res/layout/activity_main.xml" value="0.2205746061167748" />
+        <entry key="..\:/Users/WIN7X64/AndroidStudioProjects/19500551_TranHoPhiLong_AD_ToDoApp/app/src/main/res/layout/edt_layout_add_job.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/WIN7X64/AndroidStudioProjects/19500551_TranHoPhiLong_AD_ToDoApp/app/src/main/res/layout/item_job.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
