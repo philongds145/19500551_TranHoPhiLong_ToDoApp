@@ -4,9 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/WIN7X64/AndroidStudioProjects/19500551_TranHoPhiLong_AD_ToDoApp/app/src/main/res/drawable/cycle_add.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/WIN7X64/AndroidStudioProjects/19500551_TranHoPhiLong_AD_ToDoApp/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/WIN7X64/AndroidStudioProjects/19500551_TranHoPhiLong_AD_ToDoApp/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/WIN7X64/AndroidStudioProjects/19500551_TranHoPhiLong_AD_ToDoApp/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/WIN7X64/AndroidStudioProjects/19500551_TranHoPhiLong_AD_ToDoApp/app/src/main/res/drawable/ic_baseline_uncheck_24.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/WIN7X64/AndroidStudioProjects/19500551_TranHoPhiLong_AD_ToDoApp/app/src/main/res/drawable/select_check_item.xml" value="0.1787037037037037" />
         <entry key="..\:/Users/WIN7X64/AndroidStudioProjects/19500551_TranHoPhiLong_AD_ToDoApp/app/src/main/res/layout/activity_main.xml" value="0.2205746061167748" />
         <entry key="..\:/Users/WIN7X64/AndroidStudioProjects/19500551_TranHoPhiLong_AD_ToDoApp/app/src/main/res/layout/edt_layout_add_job.xml" value="0.18802083333333333" />
-        <entry key="..\:/Users/WIN7X64/AndroidStudioProjects/19500551_TranHoPhiLong_AD_ToDoApp/app/src/main/res/layout/item_job.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/WIN7X64/AndroidStudioProjects/19500551_TranHoPhiLong_AD_ToDoApp/app/src/main/res/layout/edt_layout_update_job.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/WIN7X64/AndroidStudioProjects/19500551_TranHoPhiLong_AD_ToDoApp/app/src/main/res/layout/item_job.xml" value="0.25" />
       </map>
     </option>
   </component>
